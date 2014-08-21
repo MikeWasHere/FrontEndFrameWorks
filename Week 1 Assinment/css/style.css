@@ -1,0 +1,42 @@
+body{
+    width: 80%;
+    margin: 3% auto;
+}
+
+h1{
+    margin: 5px 0;
+    font-size: 3em;
+    font-family: 'arial', sans-serif;
+}
+
+input[type*="text"]{
+    width: 80%;
+    font-size: 1.5em;
+    padding: 5px;
+    font-family: 'arial', sans-serif;
+
+}
+
+button[type*="submit"]{
+    font-size: 1.5em;
+    width: 18%;
+    padding: 6px 0;
+    padding-top: 12px;
+}
+
+p{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+li{
+    padding: 10px 0;
+    color: #646464;
+    font-size: 1.5em;
+    border-bottom: 1px #dddddd solid;
+    list-style: none;
+}
+
+#x{
+    float: right;
+}
